@@ -1,0 +1,2 @@
+# FlowLayout
+在安卓平台下实现多个TextView自动换行的流式布局
